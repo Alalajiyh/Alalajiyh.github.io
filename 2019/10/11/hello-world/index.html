@@ -285,6 +285,9 @@
 
           </div>
           
+    
+    <div class="comments" id="gitalk-container"></div>
+  
 
         </div>
           
@@ -425,6 +428,25 @@
   
 
   
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+<script>
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID: 'd52243d3085f45100f2c',
+      clientSecret: '6f3a2e6b79dcb17ce0f3dedfcc70493f44c3c18c',
+      repo: 'Alalajiyh.github.io',
+      owner: 'Alalajiyh',
+      admin: ['Alalajiyh'],
+      id: 'f89eadb22aaf4ca036efa98e27abd81c',
+        language: 'zh-CN',
+      
+      distractionFreeMode: 'true'
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
+</script>
 
 </body>
 </html>
