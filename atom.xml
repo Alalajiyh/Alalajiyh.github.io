@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-16T09:05:57.919Z</updated>
+  <updated>2019-10-18T01:43:05.458Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,23 +17,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>风起时</title>
+    <link href="http://yoursite.com/2019/10/18/%E9%A3%8E%E8%B5%B7%E6%97%B6/"/>
+    <id>http://yoursite.com/2019/10/18/风起时/</id>
+    <published>2019-10-18T01:31:34.000Z</published>
+    <updated>2019-10-18T01:43:05.458Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>平日里成都的上空总是布满阴翳的云层<br>只有在天气稍好一些的时候<br>才能拨开云雾见青天<br>那苍蓝而深邃的天空<br>极目远眺至天际便是皑皑的雪山<br>整个世界都披着耀目的日光<br>方能感受到什么才是<br>你若安好，便是晴天。</p></blockquote><a id="more"></a><p><img src="/images/wind.png" alt="风"></p><center> 《风》 </center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;平日里成都的上空总是布满阴翳的云层&lt;br&gt;只有在天气稍好一些的时候&lt;br&gt;才能拨开云雾见青天&lt;br&gt;那苍蓝而深邃的天空&lt;br&gt;极目远眺至天际便是皑皑的雪山&lt;br&gt;整个世界都披着耀目的日光&lt;br&gt;方能感受到什么才是&lt;br&gt;你若安好，便是晴天。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="风起时" scheme="http://yoursite.com/categories/%E9%A3%8E%E8%B5%B7%E6%97%B6/"/>
+    
+    
+      <category term="镇站之宝" scheme="http://yoursite.com/tags/%E9%95%87%E7%AB%99%E4%B9%8B%E5%AE%9D/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2019/10/16/hello-world/"/>
     <id>http://yoursite.com/2019/10/16/hello-world/</id>
     <published>2019-10-16T05:41:19.988Z</published>
-    <updated>2019-10-16T09:05:57.919Z</updated>
+    <updated>2019-10-18T01:47:59.234Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="javascript"><a href="#javascript" class="headerlink" title="javascript"></a>javascript</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">console</span>.log(<span class="string">"Hello World"</span>);</span><br></pre></td></tr></table></figure><h3 id="c"><a href="#c" class="headerlink" title="c#"></a>c#</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Console.Write(&quot;Hello World&quot;);</span><br></pre></td></tr></table></figure><h3 id="python"><a href="#python" class="headerlink" title="python"></a>python</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(<span class="string">"Hello World"</span>)</span><br></pre></td></tr></table></figure><h3 id="java"><a href="#java" class="headerlink" title="java"></a>java</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">System.out.print(<span class="string">"Hello World"</span>);</span><br></pre></td></tr></table></figure><a id="more"></a><h3 id="sql"><a href="#sql" class="headerlink" title="sql"></a>sql</h3><figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">select</span> <span class="string">'Hello World'</span></span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h3 id="javascript"><a href="#javascript" class="headerlink" title="javascript"></a>javascript</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">console</span>.log(<span class="string">"Hello World"</span>);</span><br></pre></td></tr></table></figure><h3 id="java"><a href="#java" class="headerlink" title="java"></a>java</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">System.out.print(<span class="string">"Hello World"</span>);</span><br></pre></td></tr></table></figure><h3 id="python"><a href="#python" class="headerlink" title="python"></a>python</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(<span class="string">"Hello World"</span>)</span><br></pre></td></tr></table></figure><a id="more"></a><h3 id="c"><a href="#c" class="headerlink" title="c#"></a>c#</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Console.Write(&quot;Hello World&quot;);</span><br></pre></td></tr></table></figure><h3 id="sql"><a href="#sql" class="headerlink" title="sql"></a>sql</h3><figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">select</span> <span class="string">'Hello World'</span></span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       &lt;h3 id=&quot;javascript&quot;&gt;&lt;a href=&quot;#javascript&quot; class=&quot;headerlink&quot; title=&quot;javascript&quot;&gt;&lt;/a&gt;javascript&lt;/h3&gt;&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log(&lt;span class=&quot;string&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;h3 id=&quot;c&quot;&gt;&lt;a href=&quot;#c&quot; class=&quot;headerlink&quot; title=&quot;c#&quot;&gt;&lt;/a&gt;c#&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Console.Write(&amp;quot;Hello World&amp;quot;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h3&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;System.out.print(&lt;span class=&quot;string&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;python&quot;&gt;&lt;a href=&quot;#python&quot; class=&quot;headerlink&quot; title=&quot;python&quot;&gt;&lt;/a&gt;python&lt;/h3&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;print(&lt;span class=&quot;string&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h3&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;System.out.print(&lt;span class=&quot;string&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
