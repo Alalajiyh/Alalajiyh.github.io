@@ -68,11 +68,11 @@
       <category term="Hello world" scheme="http://yoursite.com/categories/%E4%B8%87%E6%81%B6%E4%B9%8B%E6%BA%90/test-code/Hello-world/"/>
     
     
+      <category term="Hello world" scheme="http://yoursite.com/tags/Hello-world/"/>
+    
       <category term="测试用" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E7%94%A8/"/>
     
       <category term="镇站之宝" scheme="http://yoursite.com/tags/%E9%95%87%E7%AB%99%E4%B9%8B%E5%AE%9D/"/>
-    
-      <category term="Hello world" scheme="http://yoursite.com/tags/Hello-world/"/>
     
   </entry>
   
@@ -105,11 +105,11 @@
       <category term="苏轼" scheme="http://yoursite.com/categories/%E4%B8%87%E6%81%B6%E4%B9%8B%E6%BA%90/%E6%96%87%E5%AD%A6%E9%89%B4%E8%B5%8F/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%85%B8%E6%96%87%E5%AD%A6/%E8%8B%8F%E8%BD%BC/"/>
     
     
-      <category term="修身养性" scheme="http://yoursite.com/tags/%E4%BF%AE%E8%BA%AB%E5%85%BB%E6%80%A7/"/>
-    
       <category term="测试用" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E7%94%A8/"/>
     
       <category term="镇站之宝" scheme="http://yoursite.com/tags/%E9%95%87%E7%AB%99%E4%B9%8B%E5%AE%9D/"/>
+    
+      <category term="修身养性" scheme="http://yoursite.com/tags/%E4%BF%AE%E8%BA%AB%E5%85%BB%E6%80%A7/"/>
     
   </entry>
   
