@@ -371,6 +371,16 @@
   
 
   
+  <script src="/lib/quicklink.umd.js"></script>
+  <script>
+      window.addEventListener('load', () => {
+      quicklink({
+        timeout : 3000,
+        priority: true,
+        ignores : [uri => uri.includes('#'),uri => uri === 'http://yoursite.com/tags/Hello-world/',]
+      });
+      });
+  </script>
 
 
 </body>
